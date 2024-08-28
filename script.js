@@ -9,9 +9,6 @@ console.log(name2);
 const name3 = "tm3";
 console.log(name3);
 
-const name4 = "tm4";
-console.log(name4);
-
 const name5 = "tm5";
 console.log(name5);
 
