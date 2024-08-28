@@ -17,3 +17,6 @@ console.log(name5);
 
 const name6 = "tm6";
 console.log(name6);
+
+const name7 = "tm7";
+console.log(name7);
