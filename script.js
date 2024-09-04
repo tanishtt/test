@@ -23,3 +23,6 @@ console.log(name8);
 
 const name9 = "tm9";
 console.log(name9);
+
+const name10 = "tm10";
+console.log(name10);
