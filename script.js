@@ -21,6 +21,15 @@ console.log(name7);
 const name8 = "tm8";
 console.log(name8);
 
+const tname9 = "t/tm9";
+console.log(tname9);
+
+const tname10 = "t/tm10";
+console.log(tname10);
+
+const tname11 = "t/tm11";
+console.log(tname11);
+
 const name9 = "tm9";
 console.log(name9);
 
