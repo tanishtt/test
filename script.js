@@ -23,3 +23,6 @@ console.log(name8);
 
 const tname9 = "t/tm9";
 console.log(tname9);
+
+const tname10 = "t/tm10";
+console.log(tname10);
