@@ -52,3 +52,6 @@ console.log(mname13);
 //feat = feature
 //bug = fix bug or experiment
 //junk = throw away branch created to experiment.
+
+const name14 = "tm14";
+console.log(name14);
