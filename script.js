@@ -20,3 +20,6 @@ console.log(name7);
 
 const name8 = "tm8";
 console.log(name8);
+
+const name9 = "tm9";
+console.log(name9);
