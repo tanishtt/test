@@ -47,3 +47,8 @@ console.log(mname12);
 
 const mname13 = "moh/tm13";
 console.log(mname13);
+
+//wip = work in progress, stuff i know it won't be finished soon.
+//feat = feature
+//bug = fix bug or experiment
+//junk = throw away branch created to experiment.
