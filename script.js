@@ -56,5 +56,9 @@ console.log(mname13);
 const name14 = "tm14";
 console.log(name14);
 
-const name15="tm15";
+const name15 = "tm15";
 console.log(name15);
+
+const stash = () => {
+  console.log("learning stashing , changes to be stashed.....");
+};
