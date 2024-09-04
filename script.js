@@ -41,3 +41,6 @@ console.log(mname11);
 
 const mname12 = "moh/tm12";
 console.log(mname12);
+
+const mname13 = "moh/tm13";
+console.log(mname13);
